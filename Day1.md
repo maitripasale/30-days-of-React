@@ -90,7 +90,7 @@ To render a JSX element to HTML document, first create an index HTML. The index.
   </body>
 </html>
 ```
-![Render](../images/rendering_jsx.png)
+![Render](/images/rendering_jsx.PNG)
 
 ```html
 <!DOCTYPE html>
@@ -166,7 +166,7 @@ To render a JSX element to HTML document, first create an index HTML. The index.
   </body>
 </html>
 ```
-![Styling](../images/styling.png)
+![Style](/images/styling.PNG)
 
 
 
